@@ -4,6 +4,4 @@ html, body {
     font-size: 100%;
     background-color: #ffea00;
     color: #db3e13;
-    position: relative;
-    transform: rotate(180deg);
 }
