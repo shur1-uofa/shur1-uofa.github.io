@@ -2,6 +2,8 @@ html, body {
     margin: 0;
     border: 0;
     font-size: 100%;
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #ffea00;
+    color: #db3e13;
+    position: relative;
+    transform: rotate(180deg);
 }
